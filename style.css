@@ -1,0 +1,25 @@
+body{
+    background-image: url(six.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    background-size:650px,250px;
+    background-attachment: fixed;
+    margin: 0;
+}
+#container{
+   display:flex;
+   justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+#clock{
+    font-family:monospace;
+    font-size:6.5rem ;
+    font-weight: bold;
+    
+    text-align: center;
+    color:rgba(5, 0, 1, 0.772);
+    backdrop-filter: blur(3px);
+    
+}
