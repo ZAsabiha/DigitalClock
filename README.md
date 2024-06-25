@@ -1,0 +1,1 @@
+This is a digital clock using html,css and js.some stylings are done and background image is added by css.Using js and html an ongoing horror clock sound is also being added.The time is updated accordingly as well.
